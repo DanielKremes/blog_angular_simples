@@ -1,0 +1,31 @@
+@media screen and (min-width:769px) {
+  .small-card-component {
+    display: flex;
+  }
+  .small-card-component > h1 {
+    display: none;
+  }
+
+  .small-card-component img {
+    width: 300px;
+    margin-bottom: 1rem;
+    /* margin-left: 3rem; */
+  }
+
+  .small-card-component-content {
+    text-align: left;
+    margin-left: 1rem;
+  }
+
+  .small-card-component-content h1 {
+    font-size: 3rem;
+    text-transform: capitalize;
+  }
+
+  .small-card-component-content p {
+    font-size: 1.6rem;
+    line-height: 1.5rem;
+  }
+
+}
+

@@ -1,0 +1,58 @@
+.back {
+  background-color: #232121;
+  display: flex;
+  justify-content: space-between;
+  text-transform: uppercase;
+  height: 80px;
+}
+
+.nav-bar {
+  font-size: 1rem;
+}
+
+.nav-list {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+}
+
+
+#linkedin {
+  color: #0A66C2;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+#linkdein_hover:hover {
+  color: #568abe;
+}
+
+#github {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+#github_hover:hover {
+  color: #9c9797;
+}
+
+#angular a{
+  color: #ff1e00;
+  text-transform: uppercase;
+  font-size: 1rem;
+}
+
+#angular_material a {
+  color: #ec0eec;
+  text-transform: uppercase;
+  font-size: 2rem;
+}
+
+
+#link_menu a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: greenyellow;
+  font-size: 2rem;
+}

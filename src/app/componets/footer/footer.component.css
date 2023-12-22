@@ -1,0 +1,20 @@
+.footer {
+  background-color: #232121;
+  width: 100%;
+  display: flex;
+}
+
+.footer h1 {
+  text-align: center;
+}
+
+#developer {
+  margin: 1rem auto 1rem;
+}
+
+#name {
+  color: #d8f000;
+  text-transform: uppercase
+}
+
+
